@@ -2,6 +2,5 @@
 rfmrkfmrkmfr
 ##
 очень интересно
-- tx1
-- tzt2
-- e232
++ rfrfr
++ frfr
